@@ -1,2 +1,8 @@
+import pyautogui
+import time
+import sys
+import subprocess
+import os
+from cryptography.fernet import Fernet
 import sourcedefender
 import z51ff522693d4f38f049eec491ae3e90e805d3f07afbb74775be89e50984ef04
